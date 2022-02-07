@@ -1,7 +1,7 @@
 {
-  "name": "jobify",
+  "name": "SaleTrackingApp",
   "version": "1.0.0",
-  "description": "#### Track Your Job Search",
+  "description": "#### Track Your Sale",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -43,13 +43,5 @@
   },
   "engines": {
     "node": "16.x"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/john-smilga/mern-course-jobify.git"
-  },
-  "bugs": {
-    "url": "https://github.com/john-smilga/mern-course-jobify/issues"
-  },
-  "homepage": "https://github.com/john-smilga/mern-course-jobify#readme"
+  }
 }
